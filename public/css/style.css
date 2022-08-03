@@ -212,6 +212,11 @@
     color: black;
 }
 
+#contact-page{
+    text-align: center;
+    margin: 5rem;
+}
+
 
 /* Footer */
 
@@ -323,6 +328,10 @@
 
     .right{
         text-align: center;
+    }
+
+    #contact-page{
+        margin: 2rem;
     }
 
 }
