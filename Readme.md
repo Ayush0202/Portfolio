@@ -1,3 +1,3 @@
 # Portfolio Website #
 
-#### You can view the website <a href="https://ayushkumargupta.netlify.app" target="_blank">here</a>
+#### You can view the website <a href="https://ayushkumargupta.herokuapp.com/" target="_blank">here</a>
